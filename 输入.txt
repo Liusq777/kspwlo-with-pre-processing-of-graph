@@ -1,5 +1,0 @@
-./run.exec -f sample/sample.gr -k 3 -t 0.5 -s 0 -d 6
-
-./run.exec -f sample/sample_with_onedegree.gr -k 3 -t 0.5 -s 0 -d 6
-
-./run.exec -f sample/newyork.gr -k 3 -t 0.5 -s 0 -d 6
