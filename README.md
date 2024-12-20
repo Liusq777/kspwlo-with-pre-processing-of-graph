@@ -1,6 +1,6 @@
 # KSPWLO with Pre-processing
 
-本项目采用https://github.com/tchond/kspwlos的svpplus算法，并在此基础上增加了对图文件的预处理，即在执行算法前删除图中度为一的顶点，以减少算法时间复杂度。实验证明算法的效率取得显著提升。
+本项目采用 https://github.com/tchond/kspwlos 的svpplus算法，并在此基础上增加了对图文件的预处理，即在执行算法前删除图中度为一的顶点，以减少算法时间复杂度。实验证明算法的效率取得显著提升。
 
 参考文献：Theodoros Chondrogiannis, Panagiotis Bouros, Johann Gamper, Ulf Leser, and David B. Blumenthal, Finding k-shortest paths with limited overlap. The VLDB Journal 29(5) (2020)
 
